@@ -47,7 +47,7 @@ The f1-score on test set was 0.83.
 
 # Overview of the files:
 
-This repository contains one Jupyter notebook containing all the data exploration, feature engineering and the model building excercises, and the html version of the same.
+This repository contains one Jupyter notebook containing all the data exploration, feature engineering and the model building excercises, and the html version of the same. We've also included the data in .json format.
 
 # Requirements:
 
